@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop",
+    "description": "High-performance laptop with SSD storage",
+    "price": 999.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "2",
+    "name": "Smartphone",
+    "description": "Latest smartphone with AI camera",
+    "price": 799.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "3",
+    "name": "Headphones",
+    "description": "Wireless headphones with noise cancellation",
+    "price": 199.99,
+    "category": "Electronics"
+  },
+  {
+    "id": 6409,
+    "name": "Mouse",
+    "description": "Wireless mouse for easy use",
+    "price": 199.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "5",
+    "name": "Drive",
+    "description": "Easy to use",
+    "price": 39.99,
+    "category": "Electronics"
+  }
+]
